@@ -1,4 +1,4 @@
-from cowin_api import CoWinAPI
+from cowin_api import CoWinAPI #pip install cowin
 import time
 
 cowin = CoWinAPI()
